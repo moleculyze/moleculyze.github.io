@@ -1,0 +1,11 @@
+title: Moleculize
+email: ms.rachel.mann@gmail.com
+description: >
+  The "Angry Birds" of synthetic biology
+baseurl: ""
+url: "http://moleculyze.github.io"
+twitter_username: biofille
+github_username:  biofille
+
+# Build settings
+markdown: kramdown
