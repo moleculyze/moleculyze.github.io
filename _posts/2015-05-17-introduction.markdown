@@ -16,3 +16,6 @@ the game.
 * Andrea Engblom
 * Abbie Tuckner
 * Tamara Temple
+
+
+[HackTheGap.MN]: http://hackthegap.mn "Hack-the-Gap Minnesota -- closing the gender gap in software development"
